@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdb7cD4eD3db50cf072f8FbbF745d8350A84c6E1b",
+  "SCAN_LINK": "https://polygonscan.com/address/0xdb7cd4ed3db50cf072f8fbbf745d8350a84c6e1b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Furby Cat Club",
+  "SYMBOL": "FURBY",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/furbycatclub",
+  "SHOW_BACKGROUND": true
+}
